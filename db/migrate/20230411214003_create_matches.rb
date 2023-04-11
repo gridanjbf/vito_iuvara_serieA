@@ -6,6 +6,9 @@ class CreateMatches < ActiveRecord::Migration[7.0]
       t.integer :home_score
       t.integer :away_score
       t.references :winner, foreign_table: :teams, null: true
+      t.boolean :swapping
+      t.integer :round
+      t.string :season
       t.timestamps
     end
   end

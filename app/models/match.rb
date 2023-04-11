@@ -1,12 +1,79 @@
 class Match < ApplicationRecord
-  belongs_to :home
-  belongs_to :away
-  validates_presence_of :away_score, :home_score, :matchday
+  belongs_to :home, class_name: 'Team'
+  belongs_to :away, class_name: 'Team'
+  belongs_to :winner, class_name: 'Team', optional: true
+  validates_presence_of :away_score, :home_score
 
   before_save :set_winner
 
+  def loser
+    return nil unless winner
+    winner == home ? away : home
+  end
+
+  def assign_points
+    update_scores
+    check_vito_rule
+  end
+
+  def home=(value)
+    val = if (value.is_a? String)
+      team = Team.find_by(name: value)
+      team
+    else
+      value
+    end
+    super(val)
+  end
+
+  def pretty
+    "#{round} #{home.name} #{home_score} - #{away_score} #{away.name}"
+  end
+
+  def away=(value)
+    val = if (value.is_a? String)
+      Team.find_by(name: value)
+    else
+      value
+    end
+    super(val)
+  end
 
   private
+
+  # facilitate insertion via console
+
+  def update_scores
+    if winner.nil?
+      home.score+=1
+      away.score+=1
+      home.save
+      away.save
+    else
+      winner.score+=3
+      winner.save
+    end
+  end
+
+  def vitoable?
+   winner && (winner.score < loser.score)
+  end
+
+  def vitofy
+    wscore = winner.score
+    lscore = loser.score
+
+    transaction do
+        self.swapping = true
+        self.save
+        loser.update_column(:score, wscore)
+        winner.update_column(:score, lscore)
+    end
+  end
+
+  def check_vito_rule
+    vitofy if vitoable?
+  end
 
   def set_winner
     self.winner_id = if away_score > home_score

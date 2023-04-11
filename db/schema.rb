@@ -10,16 +10,9 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2023_04_11_214022) do
+ActiveRecord::Schema[7.0].define(version: 2023_04_11_214003) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
-
-  create_table "matchdays", force: :cascade do |t|
-    t.integer "sequence_number", null: false
-    t.string "match_years", null: false
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
 
   create_table "matches", force: :cascade do |t|
     t.bigint "away_id", null: false
@@ -27,6 +20,9 @@ ActiveRecord::Schema[7.0].define(version: 2023_04_11_214022) do
     t.integer "home_score"
     t.integer "away_score"
     t.bigint "winner_id"
+    t.boolean "swapping"
+    t.integer "round"
+    t.string "season"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["away_id"], name: "index_matches_on_away_id"
@@ -36,6 +32,7 @@ ActiveRecord::Schema[7.0].define(version: 2023_04_11_214022) do
 
   create_table "teams", force: :cascade do |t|
     t.string "name", null: false
+    t.integer "score", default: 0
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

@@ -6,12 +6,21 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 
-%w(Atalanta Bologna Cremonese Empoli Fiorentina Inter Juventus Lazio Lecce Milan Monza Napoli Roma Salernitana
-Sampdoria Sassuolo Spezia Torino Udinese Verona).each do |t|
-  Team.create(name: t)
+
+#https://fixturedownload.com/view/json/serie-a-2022
+data = JSON.parse(File.read(Rails.root.join("app","data/2022_23.json")))
+
+season = "2022/23"
+data.each do |datum|
+  next if datum["HomeTeamScore"].nil? # not yet occurred
+  m = Match.new(
+    away_score: datum["AwayTeamScore"],
+    home_score: datum["HomeTeamScore"],
+    round: datum["RoundNumber"],
+    season: season)
+  m.home = Team.find_or_create_by(name: datum["HomeTeam"])
+  m.away = Team.find_or_create_by(name: datum["AwayTeam"])
+  m.save!
 end
-["2022/23"].each do |year|
-  38.times do |i|
-    Matchday.create(sequence_number: i+1, match_years: year)
-  end
-end
+
+Match.order(round: :asc).map(&:assign_points)
