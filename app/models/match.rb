@@ -6,6 +6,10 @@ class Match < ApplicationRecord
 
   before_save :set_winner
 
+  def self.current_round
+    Match.maximum(:round)
+  end
+
   def loser
     return nil unless winner
     winner == home ? away : home
@@ -64,11 +68,12 @@ class Match < ApplicationRecord
     lscore = loser.score
 
     transaction do
-        self.swapping = true
-        self.save
+        update_column(:swapping, true)
         loser.update_column(:score, wscore)
         winner.update_column(:score, lscore)
+        ScoreSwap.create(match_id: id,  loser_score: lscore, winner_score: wscore)
     end
+
   end
 
   def check_vito_rule

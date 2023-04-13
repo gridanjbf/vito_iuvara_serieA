@@ -1,0 +1,53 @@
+Lecce swapped 6 with 7  beating Salernitana  at round 7
+Sassuolo swapped 9 with 10  beating Torino  at round 7
+Monza swapped 4 with 10  beating Juventus  at round 7
+Empoli swapped 11 with 16  beating Monza  at round 10
+Juventus swapped 13 with 16  beating Empoli  at round 11
+Torino swapped 13 with 21  beating Udinese  at round 11
+Salernitana swapped 15 with 24  beating Lazio  at round 12
+Torino swapped 24 with 26  beating Milan  at round 12
+Bologna swapped 16 with 26  beating Torino  at round 13
+Lazio swapped 18 with 25  beating Roma  at round 13
+Juventus swapped 22 with 24  beating Inter  at round 13
+Lecce swapped 13 with 27  beating Atalanta  at round 14
+Fiorentina swapped 19 with 25  beating Salernitana  at round 14
+Inter swapped 25 with 26  beating Bologna  at round 14
+Monza swapped 17 with 19  beating Salernitana  at round 15
+Sampdoria swapped 9 with 17  beating Sassuolo  at round 16
+Roma swapped 23 with 28  beating Bologna  at round 16
+Inter swapped 32 with 41  beating Napoli  at round 16
+Atalanta swapped 17 with 23  beating Bologna  at round 17
+Spezia swapped 18 with 22  beating Torino  at round 18
+Hellas Verona swapped 12 with 35  beating Lecce  at round 19
+Torino swapped 21 with 29  beating Fiorentina  at round 19
+Empoli swapped 27 with 45  beating Inter  at round 19
+Lazio swapped 35 with 36  beating Milan  at round 19
+Sassuolo swapped 13 with 35  beating Milan  at round 20
+Monza swapped 28 with 37  beating Juventus  at round 20
+Roma swapped 38 with 46  beating Empoli  at round 21
+Milan swapped 16 with 33  beating Torino  at round 22
+Atalanta swapped 33 with 38  beating Lazio  at round 22
+Milan swapped 36 with 41  beating Monza  at round 23
+Lecce swapped 19 with 38  beating Atalanta  at round 23
+Bologna swapped 33 with 37  beating Inter  at round 24
+Salernitana swapped 24 with 36  beating Monza  at round 24
+Fiorentina swapped 26 with 40  beating Hellas Verona  at round 24
+Cremonese swapped 12 with 50  beating Roma  at round 24
+Lazio swapped 42 with 56  beating Napoli  at round 25
+Monza swapped 27 with 40  beating Empoli  at round 25
+Fiorentina swapped 43 with 44  beating Milan  at round 25
+Inter swapped 36 with 38  beating Lecce  at round 25
+Roma swapped 15 with 40  beating Juventus  at round 25
+Sassuolo swapped 45 with 50  beating Cremonese  at round 25
+Torino swapped 20 with 37  beating Bologna  at round 25
+Spezia swapped 28 with 38  beating Inter  at round 26
+Juventus swapped 18 with 20  beating Sampdoria  at round 26
+Atalanta swapped 23 with 27  beating Empoli  at round 27
+Udinese swapped 30 with 44  beating Milan  at round 27
+Sampdoria swapped 21 with 28  beating Hellas Verona  at round 27
+Juventus swapped 23 with 28  beating Inter  at round 27
+Atalanta swapped 30 with 46  beating Cremonese  at round 28
+Bologna swapped 25 with 44  beating Udinese  at round 28
+Milan swapped 33 with 48  beating Napoli  at round 28
+Empoli swapped 26 with 36  beating Lecce  at round 28
+Hellas Verona swapped 24 with 57  beating Sassuolo  at round 29

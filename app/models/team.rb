@@ -11,7 +11,7 @@ class Team < ApplicationRecord
   end
 
   def swaps
-    Match.where(winner: self, swapping: true)
+    ScoreSwap.select { |swap| swap.loser.id == id || swap.winner.id == id }
   end
 
   def self.vito_rank
