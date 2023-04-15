@@ -14,17 +14,18 @@ class Team < ApplicationRecord
     ScoreSwap.select { |swap| swap.loser.id == id || swap.winner.id == id }
   end
 
-  def self.vito_rank
-    Team.order(score: :desc)
-  end
-
-  def self.rank_at(round)
+  def self.rank_at(round, vitofy: false)
     matches = Match.where("round <= ?", round)
     results = {}
     matches.each do |m|
       if m.winner.present?
         results[m.winner.name] ||= 0
         results[m.winner.name]+=3
+        if vitofy && m.score_swap.present?
+          puts 'vitofying'
+          results[m.loser.name] = m.score_swap.winner_score
+          results[m.winner.name] = m.score_swap.loser_score
+        end
       else
         results[m.home.name] ||= 0
         results[m.home.name]+=1
@@ -33,5 +34,19 @@ class Team < ApplicationRecord
       end
     end
     results.sort_by { |key, value| value }.reverse
+  end
+
+  def swap_score(match_id, loser, track_swap: false)
+    wscore = self.score
+    lscore = loser.score
+    self.class.transaction do
+      loser.update_column(:score, wscore)
+      self.update_column(:score, lscore)
+    end
+
+    ScoreSwap.create(match_id: match_id,  loser_score: lscore, winner_score: wscore) if track_swap
+
+
+
   end
 end

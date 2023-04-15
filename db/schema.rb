@@ -20,7 +20,6 @@ ActiveRecord::Schema[7.0].define(version: 2023_04_13_191034) do
     t.integer "home_score"
     t.integer "away_score"
     t.bigint "winner_id"
-    t.boolean "swapping"
     t.integer "round"
     t.string "season"
     t.datetime "created_at", null: false

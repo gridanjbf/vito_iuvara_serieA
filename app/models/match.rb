@@ -2,6 +2,7 @@ class Match < ApplicationRecord
   belongs_to :home, class_name: 'Team'
   belongs_to :away, class_name: 'Team'
   belongs_to :winner, class_name: 'Team', optional: true
+  has_one :score_swap
   validates_presence_of :away_score, :home_score
 
   before_save :set_winner
@@ -64,16 +65,7 @@ class Match < ApplicationRecord
   end
 
   def vitofy
-    wscore = winner.score
-    lscore = loser.score
-
-    transaction do
-        update_column(:swapping, true)
-        loser.update_column(:score, wscore)
-        winner.update_column(:score, lscore)
-        ScoreSwap.create(match_id: id,  loser_score: lscore, winner_score: wscore)
-    end
-
+    winner.swap_score(self.id, loser, track_swap: true)
   end
 
   def check_vito_rule
