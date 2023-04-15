@@ -22,7 +22,6 @@ class Team < ApplicationRecord
         results[m.winner.name] ||= 0
         results[m.winner.name]+=3
         if vitofy && m.score_swap.present?
-          puts 'vitofying'
           results[m.loser.name] = m.score_swap.winner_score
           results[m.winner.name] = m.score_swap.loser_score
         end
