@@ -3197,8 +3197,8 @@
     "HomeTeam": "Cremonese",
     "AwayTeam": "Empoli",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 299,
@@ -3208,8 +3208,8 @@
     "HomeTeam": "Spezia",
     "AwayTeam": "Lazio",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3
   },
   {
     "MatchNumber": 291,
@@ -3219,8 +3219,8 @@
     "HomeTeam": "Bologna",
     "AwayTeam": "Milan",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 296,
@@ -3230,8 +3230,8 @@
     "HomeTeam": "Napoli",
     "AwayTeam": "Hellas Verona",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 294,
@@ -3241,8 +3241,8 @@
     "HomeTeam": "Inter",
     "AwayTeam": "Monza",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 300,
@@ -3252,8 +3252,8 @@
     "HomeTeam": "Torino",
     "AwayTeam": "Salernitana",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 298,
@@ -3263,8 +3263,8 @@
     "HomeTeam": "Sassuolo",
     "AwayTeam": "Juventus",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 297,
@@ -3274,8 +3274,8 @@
     "HomeTeam": "Roma",
     "AwayTeam": "Udinese",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 295,
@@ -3285,8 +3285,8 @@
     "HomeTeam": "Lecce",
     "AwayTeam": "Sampdoria",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 293,
@@ -3296,8 +3296,8 @@
     "HomeTeam": "Fiorentina",
     "AwayTeam": "Atalanta",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 303,
@@ -3307,8 +3307,8 @@
     "HomeTeam": "Hellas Verona",
     "AwayTeam": "Bologna",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 308,
@@ -3318,8 +3318,8 @@
     "HomeTeam": "Salernitana",
     "AwayTeam": "Sassuolo",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 305,
@@ -3329,8 +3329,8 @@
     "HomeTeam": "Lazio",
     "AwayTeam": "Torino",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 309,
@@ -3340,8 +3340,8 @@
     "HomeTeam": "Sampdoria",
     "AwayTeam": "Spezia",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 302,
@@ -3351,8 +3351,8 @@
     "HomeTeam": "Empoli",
     "AwayTeam": "Inter",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3
   },
   {
     "MatchNumber": 307,
@@ -3362,8 +3362,8 @@
     "HomeTeam": "Monza",
     "AwayTeam": "Fiorentina",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 310,
@@ -3373,8 +3373,8 @@
     "HomeTeam": "Udinese",
     "AwayTeam": "Cremonese",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 306,
@@ -3384,8 +3384,8 @@
     "HomeTeam": "Milan",
     "AwayTeam": "Lecce",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 304,
@@ -3395,8 +3395,8 @@
     "HomeTeam": "Juventus",
     "AwayTeam": "Napoli",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 301,
@@ -3406,8 +3406,8 @@
     "HomeTeam": "Atalanta",
     "AwayTeam": "Roma",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 315,
@@ -3417,8 +3417,8 @@
     "HomeTeam": "Lecce",
     "AwayTeam": "Udinese",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 319,
@@ -3428,19 +3428,8 @@
     "HomeTeam": "Spezia",
     "AwayTeam": "Monza",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 316,
-    "RoundNumber": 32,
-    "DateUtc": "2023-04-29 13:00:00Z",
-    "Location": "Diego Armando Maradona",
-    "HomeTeam": "Napoli",
-    "AwayTeam": "Salernitana",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 317,
@@ -3450,8 +3439,8 @@
     "HomeTeam": "Roma",
     "AwayTeam": "Milan",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 320,
@@ -3461,8 +3450,8 @@
     "HomeTeam": "Torino",
     "AwayTeam": "Atalanta",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 314,
@@ -3472,8 +3461,8 @@
     "HomeTeam": "Inter",
     "AwayTeam": "Lazio",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 312,
@@ -3483,8 +3472,19 @@
     "HomeTeam": "Cremonese",
     "AwayTeam": "Hellas Verona",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
+  },
+  {
+    "MatchNumber": 316,
+    "RoundNumber": 32,
+    "DateUtc": "2023-04-30 13:00:00Z",
+    "Location": "Diego Armando Maradona",
+    "HomeTeam": "Napoli",
+    "AwayTeam": "Salernitana",
+    "Group": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 318,
@@ -3494,8 +3494,8 @@
     "HomeTeam": "Sassuolo",
     "AwayTeam": "Empoli",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 313,
@@ -3505,8 +3505,8 @@
     "HomeTeam": "Fiorentina",
     "AwayTeam": "Sampdoria",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 311,
@@ -3516,302 +3516,236 @@
     "HomeTeam": "Bologna",
     "AwayTeam": "Juventus",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 321,
     "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
+    "DateUtc": "2023-05-03 16:00:00Z",
     "Location": "Atleti Azzurri d'Italia",
     "HomeTeam": "Atalanta",
     "AwayTeam": "Spezia",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 322,
-    "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
-    "Location": "Carlo Castellani",
-    "HomeTeam": "Empoli",
-    "AwayTeam": "Bologna",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 323,
-    "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
-    "Location": "Marcantonio Bentegodi",
-    "HomeTeam": "Hellas Verona",
-    "AwayTeam": "Inter",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 324,
     "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
+    "DateUtc": "2023-05-03 16:00:00Z",
     "Location": "Juventus Stadium",
     "HomeTeam": "Juventus",
     "AwayTeam": "Lecce",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 325,
-    "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
-    "Location": "Olimpico",
-    "HomeTeam": "Lazio",
-    "AwayTeam": "Sassuolo",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 326,
-    "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
-    "Location": "San Siro",
-    "HomeTeam": "Milan",
-    "AwayTeam": "Cremonese",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 327,
-    "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
-    "Location": "Brianteo",
-    "HomeTeam": "Monza",
-    "AwayTeam": "Roma",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 328,
     "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
+    "DateUtc": "2023-05-03 16:00:00Z",
     "Location": "Arechi",
     "HomeTeam": "Salernitana",
     "AwayTeam": "Fiorentina",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3
   },
   {
     "MatchNumber": 329,
     "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
+    "DateUtc": "2023-05-03 16:00:00Z",
     "Location": "Luigi Ferraris",
     "HomeTeam": "Sampdoria",
     "AwayTeam": "Torino",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2
+  },
+  {
+    "MatchNumber": 323,
+    "RoundNumber": 33,
+    "DateUtc": "2023-05-03 19:00:00Z",
+    "Location": "Marcantonio Bentegodi",
+    "HomeTeam": "Hellas Verona",
+    "AwayTeam": "Inter",
+    "Group": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 6
+  },
+  {
+    "MatchNumber": 325,
+    "RoundNumber": 33,
+    "DateUtc": "2023-05-03 19:00:00Z",
+    "Location": "Olimpico",
+    "HomeTeam": "Lazio",
+    "AwayTeam": "Sassuolo",
+    "Group": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0
+  },
+  {
+    "MatchNumber": 326,
+    "RoundNumber": 33,
+    "DateUtc": "2023-05-03 19:00:00Z",
+    "Location": "San Siro",
+    "HomeTeam": "Milan",
+    "AwayTeam": "Cremonese",
+    "Group": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
+  },
+  {
+    "MatchNumber": 327,
+    "RoundNumber": 33,
+    "DateUtc": "2023-05-03 19:00:00Z",
+    "Location": "Brianteo",
+    "HomeTeam": "Monza",
+    "AwayTeam": "Roma",
+    "Group": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
+  },
+  {
+    "MatchNumber": 322,
+    "RoundNumber": 33,
+    "DateUtc": "2023-05-04 18:45:00Z",
+    "Location": "Carlo Castellani",
+    "HomeTeam": "Empoli",
+    "AwayTeam": "Bologna",
+    "Group": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 330,
     "RoundNumber": 33,
-    "DateUtc": "2023-05-02 22:00:00Z",
+    "DateUtc": "2023-05-04 18:45:00Z",
     "Location": "Friuli",
     "HomeTeam": "Udinese",
     "AwayTeam": "Napoli",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 331,
-    "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
-    "Location": "Atleti Azzurri d'Italia",
-    "HomeTeam": "Atalanta",
-    "AwayTeam": "Juventus",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 332,
-    "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
-    "Location": "Giovanni Zini",
-    "HomeTeam": "Cremonese",
-    "AwayTeam": "Spezia",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 333,
-    "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
-    "Location": "Carlo Castellani",
-    "HomeTeam": "Empoli",
-    "AwayTeam": "Salernitana",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 334,
-    "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
-    "Location": "Via del mare",
-    "HomeTeam": "Lecce",
-    "AwayTeam": "Hellas Verona",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 335,
     "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
+    "DateUtc": "2023-05-06 13:00:00Z",
     "Location": "San Siro",
     "HomeTeam": "Milan",
     "AwayTeam": "Lazio",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 336,
-    "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
-    "Location": "Diego Armando Maradona",
-    "HomeTeam": "Napoli",
-    "AwayTeam": "Fiorentina",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0
   },
   {
     "MatchNumber": 337,
     "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
+    "DateUtc": "2023-05-06 16:00:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Roma",
     "AwayTeam": "Inter",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2
   },
   {
-    "MatchNumber": 338,
+    "MatchNumber": 332,
     "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
-    "Location": "Città del Tricolore",
-    "HomeTeam": "Sassuolo",
-    "AwayTeam": "Bologna",
+    "DateUtc": "2023-05-06 18:45:00Z",
+    "Location": "Giovanni Zini",
+    "HomeTeam": "Cremonese",
+    "AwayTeam": "Spezia",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0
+  },
+  {
+    "MatchNumber": 331,
+    "RoundNumber": 34,
+    "DateUtc": "2023-05-07 10:30:00Z",
+    "Location": "Atleti Azzurri d'Italia",
+    "HomeTeam": "Atalanta",
+    "AwayTeam": "Juventus",
+    "Group": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2
   },
   {
     "MatchNumber": 339,
     "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
+    "DateUtc": "2023-05-07 13:00:00Z",
     "Location": "Olimpico Grande Torino",
     "HomeTeam": "Torino",
     "AwayTeam": "Monza",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
+  },
+  {
+    "MatchNumber": 336,
+    "RoundNumber": 34,
+    "DateUtc": "2023-05-07 16:00:00Z",
+    "Location": "Diego Armando Maradona",
+    "HomeTeam": "Napoli",
+    "AwayTeam": "Fiorentina",
+    "Group": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0
+  },
+  {
+    "MatchNumber": 334,
+    "RoundNumber": 34,
+    "DateUtc": "2023-05-07 18:45:00Z",
+    "Location": "Via del mare",
+    "HomeTeam": "Lecce",
+    "AwayTeam": "Hellas Verona",
+    "Group": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1
+  },
+  {
+    "MatchNumber": 333,
+    "RoundNumber": 34,
+    "DateUtc": "2023-05-08 16:30:00Z",
+    "Location": "Carlo Castellani",
+    "HomeTeam": "Empoli",
+    "AwayTeam": "Salernitana",
+    "Group": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 340,
     "RoundNumber": 34,
-    "DateUtc": "2023-05-06 22:00:00Z",
+    "DateUtc": "2023-05-08 16:30:00Z",
     "Location": "Friuli",
     "HomeTeam": "Udinese",
     "AwayTeam": "Sampdoria",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0
   },
   {
-    "MatchNumber": 341,
-    "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
-    "Location": "Renato Dall'Ara",
-    "HomeTeam": "Bologna",
-    "AwayTeam": "Roma",
+    "MatchNumber": 338,
+    "RoundNumber": 34,
+    "DateUtc": "2023-05-08 18:45:00Z",
+    "Location": "Città del Tricolore",
+    "HomeTeam": "Sassuolo",
+    "AwayTeam": "Bologna",
     "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 342,
-    "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
-    "Location": "Artemio Franchi",
-    "HomeTeam": "Fiorentina",
-    "AwayTeam": "Udinese",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 343,
-    "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
-    "Location": "Marcantonio Bentegodi",
-    "HomeTeam": "Hellas Verona",
-    "AwayTeam": "Torino",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 344,
-    "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
-    "Location": "San Siro",
-    "HomeTeam": "Inter",
-    "AwayTeam": "Sassuolo",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 345,
-    "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
-    "Location": "Juventus Stadium",
-    "HomeTeam": "Juventus",
-    "AwayTeam": "Cremonese",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1
   },
   {
     "MatchNumber": 346,
     "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
+    "DateUtc": "2023-05-12 18:45:00Z",
     "Location": "Olimpico",
     "HomeTeam": "Lazio",
     "AwayTeam": "Lecce",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 347,
-    "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
-    "Location": "Brianteo",
-    "HomeTeam": "Monza",
-    "AwayTeam": "Napoli",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -3819,7 +3753,7 @@
   {
     "MatchNumber": 348,
     "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
+    "DateUtc": "2023-05-13 13:00:00Z",
     "Location": "Arechi",
     "HomeTeam": "Salernitana",
     "AwayTeam": "Atalanta",
@@ -3828,20 +3762,9 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 349,
-    "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
-    "Location": "Luigi Ferraris",
-    "HomeTeam": "Sampdoria",
-    "AwayTeam": "Empoli",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
     "MatchNumber": 350,
     "RoundNumber": 35,
-    "DateUtc": "2023-05-13 22:00:00Z",
+    "DateUtc": "2023-05-13 16:00:00Z",
     "Location": "Alberto Picco",
     "HomeTeam": "Spezia",
     "AwayTeam": "Milan",
@@ -3850,78 +3773,78 @@
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 351,
-    "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
-    "Location": "Atleti Azzurri d'Italia",
-    "HomeTeam": "Atalanta",
-    "AwayTeam": "Hellas Verona",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 352,
-    "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
-    "Location": "Giovanni Zini",
-    "HomeTeam": "Cremonese",
-    "AwayTeam": "Bologna",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 353,
-    "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
-    "Location": "Carlo Castellani",
-    "HomeTeam": "Empoli",
-    "AwayTeam": "Juventus",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 354,
-    "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
-    "Location": "Via del mare",
-    "HomeTeam": "Lecce",
-    "AwayTeam": "Spezia",
-    "Group": null,
-    "HomeTeamScore": null,
-    "AwayTeamScore": null
-  },
-  {
-    "MatchNumber": 355,
-    "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
+    "MatchNumber": 344,
+    "RoundNumber": 35,
+    "DateUtc": "2023-05-13 18:45:00Z",
     "Location": "San Siro",
-    "HomeTeam": "Milan",
-    "AwayTeam": "Sampdoria",
+    "HomeTeam": "Inter",
+    "AwayTeam": "Sassuolo",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 356,
-    "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
-    "Location": "Diego Armando Maradona",
-    "HomeTeam": "Napoli",
-    "AwayTeam": "Inter",
+    "MatchNumber": 343,
+    "RoundNumber": 35,
+    "DateUtc": "2023-05-14 10:30:00Z",
+    "Location": "Marcantonio Bentegodi",
+    "HomeTeam": "Hellas Verona",
+    "AwayTeam": "Torino",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
   },
   {
-    "MatchNumber": 357,
-    "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
-    "Location": "Olimpico",
-    "HomeTeam": "Roma",
-    "AwayTeam": "Salernitana",
+    "MatchNumber": 342,
+    "RoundNumber": 35,
+    "DateUtc": "2023-05-14 13:00:00Z",
+    "Location": "Artemio Franchi",
+    "HomeTeam": "Fiorentina",
+    "AwayTeam": "Udinese",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 347,
+    "RoundNumber": 35,
+    "DateUtc": "2023-05-14 13:00:00Z",
+    "Location": "Brianteo",
+    "HomeTeam": "Monza",
+    "AwayTeam": "Napoli",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 341,
+    "RoundNumber": 35,
+    "DateUtc": "2023-05-14 16:00:00Z",
+    "Location": "Renato Dall'Ara",
+    "HomeTeam": "Bologna",
+    "AwayTeam": "Roma",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 345,
+    "RoundNumber": 35,
+    "DateUtc": "2023-05-14 18:45:00Z",
+    "Location": "Juventus Stadium",
+    "HomeTeam": "Juventus",
+    "AwayTeam": "Cremonese",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 349,
+    "RoundNumber": 35,
+    "DateUtc": "2023-05-15 18:45:00Z",
+    "Location": "Luigi Ferraris",
+    "HomeTeam": "Sampdoria",
+    "AwayTeam": "Empoli",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
@@ -3929,7 +3852,7 @@
   {
     "MatchNumber": 358,
     "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
+    "DateUtc": "2023-05-19 18:45:00Z",
     "Location": "Città del Tricolore",
     "HomeTeam": "Sassuolo",
     "AwayTeam": "Monza",
@@ -3938,9 +3861,53 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 352,
+    "RoundNumber": 36,
+    "DateUtc": "2023-05-20 13:00:00Z",
+    "Location": "Giovanni Zini",
+    "HomeTeam": "Cremonese",
+    "AwayTeam": "Bologna",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 351,
+    "RoundNumber": 36,
+    "DateUtc": "2023-05-20 16:00:00Z",
+    "Location": "Atleti Azzurri d'Italia",
+    "HomeTeam": "Atalanta",
+    "AwayTeam": "Hellas Verona",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 355,
+    "RoundNumber": 36,
+    "DateUtc": "2023-05-20 18:45:00Z",
+    "Location": "San Siro",
+    "HomeTeam": "Milan",
+    "AwayTeam": "Sampdoria",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 354,
+    "RoundNumber": 36,
+    "DateUtc": "2023-05-21 10:30:00Z",
+    "Location": "Via del mare",
+    "HomeTeam": "Lecce",
+    "AwayTeam": "Spezia",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 359,
     "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
+    "DateUtc": "2023-05-21 13:00:00Z",
     "Location": "Olimpico Grande Torino",
     "HomeTeam": "Torino",
     "AwayTeam": "Fiorentina",
@@ -3949,12 +3916,45 @@
     "AwayTeamScore": null
   },
   {
+    "MatchNumber": 356,
+    "RoundNumber": 36,
+    "DateUtc": "2023-05-21 16:00:00Z",
+    "Location": "Diego Armando Maradona",
+    "HomeTeam": "Napoli",
+    "AwayTeam": "Inter",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
     "MatchNumber": 360,
     "RoundNumber": 36,
-    "DateUtc": "2023-05-20 22:00:00Z",
+    "DateUtc": "2023-05-21 18:45:00Z",
     "Location": "Friuli",
     "HomeTeam": "Udinese",
     "AwayTeam": "Lazio",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 353,
+    "RoundNumber": 36,
+    "DateUtc": "2023-05-22 18:45:00Z",
+    "Location": "Carlo Castellani",
+    "HomeTeam": "Empoli",
+    "AwayTeam": "Juventus",
+    "Group": null,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null
+  },
+  {
+    "MatchNumber": 357,
+    "RoundNumber": 36,
+    "DateUtc": "2023-05-22 18:45:00Z",
+    "Location": "Olimpico",
+    "HomeTeam": "Roma",
+    "AwayTeam": "Salernitana",
     "Group": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null
